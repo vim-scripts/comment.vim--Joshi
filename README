@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1593
+
+Global Plugin to comment and un-comment different
+source files in both normal and visual <Shift-V> mode
+
+Refer to Jasmeet Singh Anand&#039s Original \"comment.vim\"
+Entire script is copied and I, Keyur Joshi have just added support for two more file formats \".tex\" and \".bib\"
